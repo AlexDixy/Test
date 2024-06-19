@@ -10,3 +10,6 @@
 * git checkout
 * git merge
 * git branch -d
+* git clone
+* git push
+* git pull
